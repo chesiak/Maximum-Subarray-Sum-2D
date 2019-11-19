@@ -1,4 +1,4 @@
-# Maximum-Subarray-Sum-3D
+# Maximum-Subarray-Sum-2D
 Finding a contiguous subarray with the largest sum.
 
 In computer science, the maximum subarray problem is the task of finding a contiguous subarray with the largest sum, within a given one-dimensional array A[1...n] of numbers.
